@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1019157522313",
+    "firebase_url": "https://hand-hygenie-78c1c.firebaseio.com",
+    "project_id": "hand-hygenie-78c1c",
+    "storage_bucket": "hand-hygenie-78c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019157522313:android:4e7b7b521f3a7bf7",
+        "android_client_info": {
+          "package_name": "com.jkls.android.handhygenie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019157522313-bts5t12o2p8qqruoj0lpbpkeja7kqve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGu_KTO5FNh6jHyxBgr2lgDD9KW44Vsdo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
